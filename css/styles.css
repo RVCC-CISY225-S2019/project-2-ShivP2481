@@ -117,3 +117,11 @@ img.my-picture {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
 }
+
+
+.footer{
+  padding: 4em;
+  max-width: 100%;
+  background-color: #294860;
+  color: white;
+}
