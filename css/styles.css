@@ -126,5 +126,7 @@ img.my-picture {
   color: white;
   text-align: center;
   font-weight: 600;
+  font-size: 1.6rem; 
+  margin-bottom: 0; 
   
 }
