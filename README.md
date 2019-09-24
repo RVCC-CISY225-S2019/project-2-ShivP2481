@@ -1,8 +1,12 @@
-## Project 2 
+## Project 2 intrusctions/steps:
 
 ### Instructions:
 1. Download and clone project 1
-2. Edit 
+2. Use Coolors website to select new color for footer and header
+3. Change font on css and HTML to Fira Sans- used Google Font
+4. Add footer class, change font size, change text
+5. Add real copyright symbol to footer along with name 
+6. Check if code is valid and change README.md to match Project 2 intsructions
 
 ### Resources
 
